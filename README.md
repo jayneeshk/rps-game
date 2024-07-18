@@ -60,8 +60,9 @@ We welcome contributions! If you would like to contribute to this project, pleas
 
 Please make sure to update tests and documentation as appropriate.
 
-##Some Highlights
+## Some Highlights
 ![image](https://github.com/user-attachments/assets/456b81b1-3986-4026-add1-19893a528f51)
+
 ![image](https://github.com/user-attachments/assets/21190998-1abf-4297-a343-f8541c82a026)
 
 

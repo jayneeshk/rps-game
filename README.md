@@ -9,7 +9,6 @@ Welcome to the Rock-Paper-Scissors game! This repository contains a web-based im
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
